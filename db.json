@@ -1,11 +1,13 @@
 {
-  "name": "Angry lion",
-  "description": "An angry lion",
-  "image": "https://ipfs.io/ipfs/QmNUByM2cx7ZXK7MkXLkwJSME6DhxYu2qaqUfhPXz3jJ1f",
-  "attributes": [
-    {
-      "trait_type": "Furious",
-      "value": 100
-    }
-  ]
+  "data": {
+    "name": "Angry lion",
+    "description": "An angry lion",
+    "image": "https://ipfs.io/ipfs/QmNUByM2cx7ZXK7MkXLkwJSME6DhxYu2qaqUfhPXz3jJ1f",
+    "attributes": [
+      {
+        "trait_type": "Furious",
+        "value": 100
+      }
+    ]
+  }
 }
